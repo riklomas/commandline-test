@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/AlexBSweet/commandline-test#readme",
   "devDependencies": {
-    "gulp": "^4.0.0"
+    "gulp": "^3.9.1",
+    "gulp-sass": "^4.0.2",
+    "node-sass": "^4.11.0"
   }
 }
