@@ -8,6 +8,6 @@ sass.compiler = require('node-sass');
 gulp.task('default', function(){
     return gulp.src('css/app.scss')
     .pipe(sass())
-    .pipe(gulp.dest('app.css'))
+    .pipe(gulp.dest(''))
 })
 
